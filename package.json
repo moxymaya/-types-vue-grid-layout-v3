@@ -1,6 +1,6 @@
 {
   "name": "vue-grid-layout-v3-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Type definitions for vue-grid-layout-v3",
   "main": "",
   "types": "index.d.ts",
