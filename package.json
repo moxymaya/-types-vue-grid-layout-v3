@@ -15,5 +15,8 @@
     "types"
   ],
   "author": "moxymaya",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^3.5.25"
+  }
 }
